@@ -1,0 +1,24 @@
+{
+  "name": "truncate-files-in-directory",
+  "version": "1.0.0",
+  "description": "Truncate all filenames in a directory. Make potential duplicate filenames web safe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshboyan/truncate-files-in-directory.git"
+  },
+  "keywords": [
+    "truncate",
+    "files",
+    "filenames"
+  ],
+  "author": "Josh Boyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshboyan/truncate-files-in-directory/issues"
+  },
+  "homepage": "https://github.com/joshboyan/truncate-files-in-directory#readme"
+}
